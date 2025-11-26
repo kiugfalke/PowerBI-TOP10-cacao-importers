@@ -1,6 +1,8 @@
 Cacao Import Analysis (2024 Top 10) 🍫
 This repository contains the Power BI report and underlying analysis for the top 10 global importers of cacao (cocoa beans, paste, butter, powder, etc.) for the year 2024.
 
+<img width="1372" height="768" alt="image" src="https://github.com/user-attachments/assets/30904b72-c19a-411e-8ad6-f27da09668f3" />
+
 The primary objective of this project is to visualise and analyse the key trends, volume, and value of cacao imports across the world's leading consumer countries. This analysis is crucial for understanding global commodity flows and supply chain dynamics in the chocolate and confectionery industry.
 
 📁 Repository Structure
